@@ -1,3 +1,4 @@
+pytube
 pytubefix
-ffmpeg
 ffmpeg-python
+TTS
