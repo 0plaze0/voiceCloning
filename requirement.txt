@@ -1,4 +1,6 @@
-pytube
+numpy
+scipy
 pytubefix
 ffmpeg-python
-TTS
+TTS==0.22.0
+ffmpeg
