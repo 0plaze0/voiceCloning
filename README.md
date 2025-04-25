@@ -1,5 +1,4 @@
-Here is the **`README.md`** file that provides all necessary instructions to set up the project, create a virtual environment, install dependencies, and run the script.
-
+> use python3.10 to run the code
 ---
 
 ### `README.md`
